@@ -5,7 +5,7 @@ const esmaltes = [
         nome: "PUNK GLOSS", 
         marca: "Colorama", 
         acabamento: "Gel", 
-        imagem: "Nova pasta/img/imagem 1.png",
+        imagem: "Trabalho de Jonas/img/imagem 1.png",
         descricao: "Um brilho intenso e moderno que traz atitude para suas unhas. Perfeito para quem quer se destacar!"
     },
     { 
@@ -13,7 +13,7 @@ const esmaltes = [
         nome: "GLOW KITTY", 
         marca: "Colorama", 
         acabamento: "Gel", 
-        imagem: "Nova pasta/img/imagem 2.png",
+        imagem: "Trabalho de Jonas/img/imagem 2.png",
         descricao: "Inspirado no estilo Sanrio, este esmalte gel oferece um brilho suave e elegante."
     },
     { 
@@ -21,7 +21,7 @@ const esmaltes = [
         nome: "BRILHO DOCE", 
         marca: "Colorama", 
         acabamento: "Gel", 
-        imagem: "Nova pasta/img/imagem 3.png",
+        imagem: "Trabalho de Jonas/img/imagem 3.png",
         descricao: "Uma cor doce com acabamento gel que combina sofisticação e diversão."
     },
     { 
@@ -29,7 +29,7 @@ const esmaltes = [
         nome: "NUVEM DE GLOW", 
         marca: "Colorama", 
         acabamento: "Gel", 
-        imagem: "Nova pasta/img/imagem 4.png",
+        imagem: "Trabalho de Jonas/img/imagem 4.png",
         descricao: "Leve como uma nuvem, brilhante como o glow. Ideal para looks delicados."
     },
     { 
@@ -37,7 +37,7 @@ const esmaltes = [
         nome: "HONEY", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 5.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 5.jpeg",
         descricao: "Uma cor mel quente e confortável. Acabamento cremoso que hidrata as unhas."
     },
     { 
@@ -45,7 +45,7 @@ const esmaltes = [
         nome: "MOUSSE DE LIMÃO", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 6.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 6.jpeg",
         descricao: "Fresco e vibrante, com a textura macia de um mousse. Perfeito para o verão!"
     },
     { 
@@ -53,7 +53,7 @@ const esmaltes = [
         nome: "BANANA SPLIT", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 7.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 7.jpeg",
         descricao: "Doce e divertido, este esmalte traz a diversão do sorvete para suas unhas."
     },
     { 
@@ -61,7 +61,7 @@ const esmaltes = [
         nome: "MACARON", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 8.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 8.jpeg",
         descricao: "Delicado como um macaron francês. Cores pastel que transmitem elegância."
     },
     { 
@@ -69,7 +69,7 @@ const esmaltes = [
         nome: "SUSPIRO", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 9.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 9.jpeg",
         descricao: "Leve e aéreo, como um suspiro. Acabamento cremoso e confortável."
     },
     { 
@@ -77,7 +77,7 @@ const esmaltes = [
         nome: "JUJUBA", 
         marca: "Hello Kitty", 
         acabamento: "Cremoso", 
-        imagem: "Nova pasta/img/imagem 10.jpeg",
+        imagem: "Trabalho de Jonas/img/imagem 10.jpeg",
         descricao: "Colorido e divertido, como uma jujuba. Traz alegria para o seu dia!"
     }
 ];
