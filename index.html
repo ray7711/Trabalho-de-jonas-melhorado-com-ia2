@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SANRIO NAILS - Encontre o esmalte perfeito para o seu estilo">
+    <title>SANRIO NAILS - Esmaltes Incríveis</title>
+    <link rel="stylesheet" href="Nova pasta/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>✨ SANRIO NAILS ✨</h1>
+            <p>Encontre o esmalte perfeito para o seu estilo</p>
+            <p class="tagline">Dê as suas unhas o glamur que elas merecem!</p>
+        </div>
+        <div class="busca-container">
+            <input type="text" id="inputBusca" placeholder="🔍 Busque por cor, marca ou acabamento...">
+        </div>
+    </header>
+
+    <main>
+        <section class="filtros-container">
+            <h2>Filtrar por:</h2>
+            <div class="filtros">
+                <button class="filtro-btn ativo" data-filtro="todos">Todos</button>
+                <button class="filtro-btn" data-filtro="Gel">Gel</button>
+                <button class="filtro-btn" data-filtro="Cremoso">Cremoso</button>
+                <button class="filtro-btn" data-marca="Colorama">Colorama</button>
+                <button class="filtro-btn" data-marca="Hello Kitty">Hello Kitty</button>
+            </div>
+        </section>
+
+        <section id="catalogo" class="catalogo-grid">
+        </section>
+
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="modal-body">
+                    <img id="modalImagem" src="" alt="Esmalte">
+                    <div class="modal-info">
+                        <h2 id="modalNome"></h2>
+                        <p class="modal-marca"><strong>Marca:</strong> <span id="modalMarca"></span></p>
+                        <p class="modal-acabamento"><strong>Acabamento:</strong> <span id="modalAcabamento"></span></p>
+                        <p class="modal-descricao"><strong>Descrição:</strong> <span id="modalDescricao"></span></p>
+                        <button class="btn-comprar">Adicionar ao Carrinho</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 SANRIO NAILS. Todos os direitos reservados. | Desenvolvido com ❤️</p>
+    </footer>
+
+    <script src="Nova pasta/script.js"></script>
+</body>
+</html>
